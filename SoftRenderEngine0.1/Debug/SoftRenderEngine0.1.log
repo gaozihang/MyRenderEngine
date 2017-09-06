@@ -1,0 +1,32 @@
+﻿  main.cpp
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\texture2d.h(62): warning C4018: “<”: 有符号/无符号不匹配
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\texture2d.h(63): warning C4018: “<”: 有符号/无符号不匹配
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\application.h(93): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\geometry.h(161): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\geometry.h(204): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\geometry.h(205): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(22): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(23): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(24): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(25): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(45): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(46): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(47): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(48): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(146): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(147): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(148): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(149): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(159): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(160): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(161): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(162): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(177): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(178): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(179): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\rasterizer.h(180): warning C4244: “=”: 从“float”转换到“byte”，可能丢失数据
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\main.cpp(95): warning C4305: “参数”: 从“double”到“float”截断
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\main.cpp(143): warning C4305: “+=”: 从“double”到“float”截断
+c:\gaonii\result\c++\softrenderengine0.1\softrenderengine0.1\main.cpp(144): warning C4305: “+=”: 从“double”到“float”截断
+  SoftRenderEngine0.1.vcxproj -> C:\gaonii\result\c++\SoftRenderEngine0.1\Debug\SoftRenderEngine0.1.exe
+  SoftRenderEngine0.1.vcxproj -> C:\gaonii\result\c++\SoftRenderEngine0.1\Debug\SoftRenderEngine0.1.pdb (Full PDB)
